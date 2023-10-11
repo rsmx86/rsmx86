@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rodrigo
-- 👀 I’m interested in Oracle, SQL, Javascript and React;
+- 👀 I’m interested in SQL, HTML, CSS and Javascript;
 - 🌱 I’m currently learning Oracle, Javascript and Web Development; Not necessarily in that order :D ;
 - 📫 How to reach me - @rsmx86 and mail: rsmx86@gmail.com
 
