@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodrigo
 - 👀 I’m interested in SQL, HTML, CSS and Javascript;
-- 🌱 I’m currently learning Oracle, Javascript and Web Development; Not necessarily in that order :D ;
+- 🌱 I’m currently learning MySQL, Javascript and Web Development; Not necessarily in that order :D ;
 - 📫 How to reach me - @rsmx86 and mail: rsmx86@gmail.com
 
 "From puddle to puddle, the toad makes his way."
