@@ -1,7 +1,7 @@
 # 👋 Oi, eu sou o Rodrigo!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-PHP-777BB?logo=PhP" />
+  <img src="https://img.shields.io/badge/FOCUS%20PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Learning-PHP%20%7C%20JS%20%7C%20MySQL-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Looking%20for%20Opportunities-green?style=for-the-badge" />
 </p>
