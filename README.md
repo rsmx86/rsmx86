@@ -9,8 +9,8 @@
 ---
 
 ###
-Apaixonado por entender como as coisas funcionam (e como elas quebram). Meu foco atual é a transição para a área de **Qualidade de Software (QA)**, unindo conhecimentos de desenvolvimento e banco de dados para garantir entregas robustas.
-
+Apaixonado por entender como as coisas funcionam (e como elas quebram). Meu foco atual é o aprendizado contínuo em DevOps, estudando Qualidade de Software (QA), SGBDs, Desenvolvimento Web e automação de processos, integrando desenvolvimento, infraestrutura e banco de dados para garantir entregas confiáveis, escaláveis e bem monitoradas.
+###
 - Atualmente mergulhando em **PHP** e **WEB Development**.
 - Experiência **MySQL** e **JS**
 ---
