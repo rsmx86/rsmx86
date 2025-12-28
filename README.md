@@ -1,7 +1,7 @@
 # 👋 Oi, eu sou o Rodrigo!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-QA%20Engineering-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-PHP-777BB?logo=PhP" />
   <img src="https://img.shields.io/badge/Learning-PHP%20%7C%20JS%20%7C%20MySQL-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Looking%20for%20Opportunities-green?style=for-the-badge" />
 </p>
@@ -11,7 +11,7 @@
 ###
 Apaixonado por entender como as coisas funcionam (e como elas quebram). Meu foco atual é a transição para a área de **Qualidade de Software (QA)**, unindo conhecimentos de desenvolvimento e banco de dados para garantir entregas robustas.
 
-- Atualmente mergulhando em **Manual Testing** e **Cypress**.
+- Atualmente mergulhando em **PHP** e **WEB Development**.
 - Experiência **MySQL** e **JS**
 ---
 
@@ -20,7 +20,7 @@ Apaixonado por entender como as coisas funcionam (e como elas quebram). Meu foco
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | PHP, JavaScript, SQL |
-| **Banco de Dados** | MySQL, Postgre (Estudando) |
+| **Banco de Dados** | MySQL |
 | **Frameworks** | Bootstrap |
 | **QA / Testing** | Manual Testing, Test Cases, Bug Reporting |
 
