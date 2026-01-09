@@ -21,7 +21,7 @@ Apaixonado por entender como as coisas funcionam (e como elas quebram). Meu foco
 | :--- | :--- |
 | **Linguagens** | PHP, JavaScript, SQL |
 | **Banco de Dados** | MySQL |
-| **Frameworks** | Bootstrap |
+| **Frameworks** | Bootstrap, Codeignter3, Laravel |
 | **QA / Testing** | Manual Testing, Test Cases, Bug Reporting |
 
 ---
