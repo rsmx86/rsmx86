@@ -20,7 +20,7 @@ Trago uma bagagem sólida em Logística e sistemas WMS, o que me dá uma visão 
 ### 📊 Estatísticas de Desenvolvedor
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsmx86I&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsmx86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsmx86&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
