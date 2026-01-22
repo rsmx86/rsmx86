@@ -1,45 +1,50 @@
-# 👋 Oi, eu sou o Rodrigo! (rsmx86)
+## 👋 Prazer, eu sou o Rodrigo
 
-### 🚀 Software Engineer em construção | PHP Enthusiast | QA & DevOps Explorer
+🎯 Analista de Sistemas e Desenvolvedor Backend
 
-Apaixonado por entender a mecânica por trás do software — tanto como ele funciona quanto como ele quebra. Meu foco é construir aplicações robustas, integrando desenvolvimento back-end, gestão de infraestrutura e qualidade de software para garantir entregas escaláveis e confiáveis.
+Atuo na análise, modelagem e desenvolvimento de sistemas web, com foco em
+regras de negócio, qualidade de software e eficiência operacional. Possuo experiência em sistemas de Logistica e WMS.
 
-Trago uma bagagem sólida em Logística e sistemas WMS, o que me dá uma visão privilegiada para desenvolver soluções de software focadas em eficiência operacional e gestão de estoques.
+### 🧠 Principais competências
+- Levantamento, análise e documentação de requisitos
+- Modelagem de dados, processos e regras de negócio
+- Desenvolvimento backend em PHP (POO e boas práticas)
+- Arquitetura de sistemas e Programação Orientada a Objetos (POO)
+- Testes de software e garantia da qualidade (QA)
+- Integração com infraestrutura básica (servidores e ambiente web)
+- Conhecimento em Logística e sistemas WMS
 
----
+### 🛠️ Tecnologias
+PHP | Laravel | Vue.JS | MySQL | HTML | CSS | JavaScript
 
-### 🛠️ No meu "cinto de utilidades":
+![rsmx86's Stats](https://github-readme-stats.vercel.app/api?username=rsmx86&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-- **Back-end:** PHP (Laravel, CodeIgniter 3/4) & MySQL.
-- **Front-end:** HTML5, CSS3, Tailwind CSS & JavaScript (em evolução).
-- **QA & Testing:** Cypress (foco em automação), Testes Manuais e Bug Reporting.
-- **Infra:** Apache, Gerenciamento de Servidores e automação de processos.
+### 📌 Sistemas em destaque
 
----
+- 🗂️ **Sistema WMS**  
+  Sistema web para gestão de processos, usuários e registros.  
+  👉 https://github.com/rsmx86/rawcrud
 
-### 📊 Estatísticas de Desenvolvedor
+- 📊 **CRUD básico em Laravel + Blade**  
+  Documentação, modelagem e análise de sistemas.  
+  👉 https://github.com/rsmx86/laravel_crud
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsmx86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsmx86&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+- 📊 **Sistema de Custodia(Usado e aprovado)**  
+  👉 [![Sistema de Custodia](https://github-readme-stats.vercel.app/api/pin/?username=rsmx86&repo=system-management-app&theme=tokyonight)](https://github.com/rsmx86/portaria)
 
----
 
-### 🔭 O que estou aprontando agora?
 
-- 🐘 Mergulhando fundo no ecossistema **Laravel**.
-- 🧪 Estudando automação de testes com **Cypress** para elevar o nível do QA.
-- ⚡ Aprimorando minhas habilidades em **JavaScript** moderno.
-- 🏗️ Explorando a cultura **DevOps** para entregas mais ágeis.
 
----
+##🔭 O que estou aprontando agora?
 
-### 📫 Vamos conversar?
+🐘 Laravel (boas práticas e arquitetura)
+⚡ JavaScript moderno
+🏗️ Cultura DevOps e entregas ágeis
 
-- 📧 **E-mail:** [rsmx86@gmail.com](mailto:rsmx86@gmail.com)
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/rsmx86/](https://linkedin.com/in/rsmx86)
 
----
+___________________________________________________________________
+📫 Vamos conversar?
+📧 E-mail: rsmx86@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/rsmx86/
 
-> O valor não reside no estado final, mas na constante refatoração do caminho.
+O valor não reside no estado final, mas na constante refatoração do caminho
