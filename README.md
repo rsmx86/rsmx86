@@ -3,7 +3,7 @@
 🎯 Analista de Sistemas e Desenvolvedor Backend
 
 Atuo na análise, modelagem e desenvolvimento de sistemas web, com foco em
-regras de negócio, qualidade de software e eficiência operacional. Possuo experiência em sistemas de Logistica e WMS.
+regras de negócio, qualidade de software e eficiência operacional.
 
 ### 🧠 Principais competências
 - Levantamento, análise e documentação de requisitos
