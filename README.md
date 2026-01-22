@@ -22,14 +22,15 @@ PHP | Laravel | Vue.JS | MySQL | HTML | CSS | JavaScript
 ### 📌 Sistemas em destaque
 
 - 🗂️ **Sistema WMS**  
-  Sistema web para gestão de processos, usuários e registros.  
+  Sistema web para gestão de almoxarifado, usuários, clientes e produtos automotivos  
   👉 https://github.com/rsmx86/rawcrud
 
 - 📊 **CRUD básico em Laravel + Blade**  
-  Documentação, modelagem e análise de sistemas.  
+  Bloco de notas básico para um Create Read Update Delete
   👉 https://github.com/rsmx86/laravel_crud
 
-- 📊 **Sistema de Custodia(Usado e aprovado)**  
+- 🎁 **Sistema de Custódia**  
+  Sistema de custódia de ativos com assinatura digital, desenvolvido para uso em ambiente empresarial e atualmente em operação e testes reais.  
   👉 https://github.com/rsmx86/portaria
 
 
