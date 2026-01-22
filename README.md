@@ -30,7 +30,7 @@ PHP | Laravel | Vue.JS | MySQL | HTML | CSS | JavaScript
   👉 https://github.com/rsmx86/laravel_crud
 
 - 📊 **Sistema de Custodia(Usado e aprovado)**  
-  👉 [![Sistema de Custodia](https://github-readme-stats.vercel.app/api/pin/?username=rsmx86&repo=system-management-app&theme=tokyonight)](https://github.com/rsmx86/portaria)
+  👉 https://github.com/rsmx86/portaria
 
 
 
