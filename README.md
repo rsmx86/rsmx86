@@ -17,7 +17,7 @@ regras de negócio, qualidade de software e eficiência operacional.
 ### 🛠️ Tecnologias
 PHP | Laravel | Vue.JS | MySQL | HTML | CSS | JavaScript
 
-![rsmx86's Stats](https://github-readme-stats.vercel.app/api?username=rsmx86&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
 
 ### 📌 Sistemas em destaque
 
