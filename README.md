@@ -1,6 +1,6 @@
 ## 👋 Prazer, eu sou o Rodrigo
 
-🎯 Analista de Sistemas e Desenvolvedor Backend
+🎯 Analista de Sistemas e Desenvolvedor
 
 Atuo na análise, modelagem e desenvolvimento de sistemas web, com foco em
 regras de negócio, qualidade de software e eficiência operacional.
