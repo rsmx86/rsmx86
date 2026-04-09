@@ -1,61 +1,71 @@
-# 👋 Olá, eu sou Rodrigo
+# Prazer, Rodrigo
 
-🎯 **Analista de Sistemas e Desenvolvedor**  
+🎯 **Profissional em transição para DevOps / SRE**  
+💼 Experiência com suporte, sistemas logísticos (WMS) e desenvolvimento backend  
 
-Atuo na análise, modelagem e desenvolvimento de sistemas web, com foco em **regras de negócio, qualidade de software e eficiência operacional**.
-
----
-
-## 🧠 Principais competências
-- Levantamento, análise e documentação de requisitos  
-- Modelagem de dados, processos e regras de negócio  
-- Desenvolvimento backend em **PHP** (POO e boas práticas)  
-- Arquitetura de sistemas e Programação Orientada a Objetos (POO)  
-- Testes de software e garantia da qualidade (QA)  
-- Integração com infraestrutura básica (servidores e ambiente web)  
-- Conhecimento em logística e sistemas **WMS**
+Atualmente focado em evoluir para **DevOps/SRE**, com ênfase em automação, infraestrutura e confiabilidade de sistemas.
 
 ---
 
-## 🛠️ Tecnologias / Stacks
-**Backend:** PHP, Laravel, Lua  
-**Frontend:** JavaScript, Vue.js, HTML, CSS  
+## 🧠 Base técnica
+
+- Experiência com suporte técnico e troubleshooting em sistemas reais  
+- Conhecimento em sistemas logísticos (**WMS / Logistica**)  
+- Desenvolvimento backend com **PHP (POO)**  
+- Noções de servidores Linux e ambientes web  
+- Fundamentos iniciais de **cloud (AWS EC2, SSH, Linux)**  
+
+---
+
+## 🚀 Em evolução para DevOps/SRE
+
+Atualmente estudando e praticando:
+
+- Linux (administração e troubleshooting)  
+- Networking (portas, protocolos, conectividade)  
+- Git e versionamento profissional  
+- Cloud (AWS – EC2, segurança, deploy)  
+- Containers (Docker)  
+- CI/CD (pipelines automatizados)  
+- Infraestrutura como Código (Terraform)  
+
+---
+
+## 🛠️ Tecnologias
+
+**Backend:** PHP, Laravel  
+**Frontend:** JavaScript, Vue.js  
 **Banco de Dados:** MySQL  
-**Outros:** Conceitos DevOps, integração com servidores  
+**Infra/DevOps (em evolução):** Linux, AWS, Git, Docker  
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos
 
 ### 🗂️ Sistema WMS
-Sistema web para gestão de almoxarifado, usuários, clientes e produtos automotivos  
-👉 [rawcrud](https://github.com/rsmx86/rawcrud)
+👉 https://github.com/rsmx86/rawcrud  
 
-### 📊 CRUD básico em Laravel + Blade
-Bloco de notas básico para Create, Read, Update e Delete  
-👉 [laravel_crud](https://github.com/rsmx86/laravel_crud)
+### 📊 CRUD Laravel
+👉 https://github.com/rsmx86/laravel_crud  
 
 ### 🎁 Sistema de Custódia
-Sistema de custódia de ativos com assinatura digital, desenvolvido para ambiente empresarial e atualmente em operação/testes reais  
-👉 [portaria](https://github.com/rsmx86/portaria)
-
-### 🧟 Terminal Zombie System (Lua)
-Micro RPG de sobrevivência em terminal, com combate contra zumbis, sistema de loot e mensagens coloridas  
-👉 [Terminal Zombie System](https://github.com/rsmx86/terminal-zombie-system)  
+👉 https://github.com/rsmx86/portaria  
 
 ---
 
-## 🔭 Atualmente estudando e aprimorando
-- Boas práticas em Laravel e arquitetura de sistemas  
-- JavaScript moderno (ES6+)  
-- Cultura DevOps e entregas ágeis  
+## 🔭 Próximos projetos (DevOps)
+
+- Deploy de aplicação em EC2 com Nginx  
+- Pipeline CI/CD com GitHub Actions  
+- Containerização com Docker  
+- Infraestrutura com Terraform  
 
 ---
 
 ## 📫 Contato
-- E-mail: rsmx86@gmail.com  
-- LinkedIn: [linkedin.com/in/rsmx86](https://www.linkedin.com/in/rsmx86/)  
+- Email: rsmx86@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/rsmx86/
 
 ---
 
-*"O valor não reside no estado final, mas na constante refatoração do caminho"*
+💭 *"Disciplina constrói o profissional que a motivação não sustenta."*
