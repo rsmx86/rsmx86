@@ -1,6 +1,6 @@
 # Prazer, Rodrigo
 
-🎯 **Profissional em transição para DevOps / SRE**  
+🎯 **DevOps / SRE**  
 💼 Experiência com suporte, sistemas logísticos (WMS) e desenvolvimento backend  
 
 Atualmente focado em evoluir para **DevOps/SRE**, com ênfase em automação, infraestrutura e confiabilidade de sistemas.
@@ -27,14 +27,12 @@ Atualmente estudando e praticando:
 - Cloud (AWS – EC2, segurança, deploy)  
 - Containers (Docker)  
 - CI/CD (pipelines automatizados)  
-- Infraestrutura como Código (Terraform)  
+
 
 ---
 
 ## 🛠️ Tecnologias
 
-**Backend:** PHP, Laravel  
-**Frontend:** JavaScript, Vue.js  
 **Banco de Dados:** MySQL  
 **Infra/DevOps (em evolução):** Linux, AWS, Git, Docker  
 
